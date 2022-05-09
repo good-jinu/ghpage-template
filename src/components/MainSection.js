@@ -1,4 +1,5 @@
 import React from 'react';
+import './MainSection.css'
 
 class MainSection extends React.Component {
     render() {

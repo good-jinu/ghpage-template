@@ -14,7 +14,7 @@ class Header extends React.Component {
   render() {
     return (
         <header id="header">
-            ghpage template
+            <h1>ghpage template</h1>
             <input type="checkbox" id="switch" onChange={this.handle_thememode} /><label for="switch">Toggle</label>
         </header>
     );

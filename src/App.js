@@ -13,7 +13,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className={this.state.classname}>
+      <div className={this.state.classname} id="App">
         <Header thememode_callback={() => {
           if(this.state.classname == "light_mode")
           {
