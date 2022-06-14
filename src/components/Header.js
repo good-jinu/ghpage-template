@@ -1,4 +1,5 @@
 import React from 'react';
+import './Header.css';
 
 class Header extends React.Component {
   constructor(props)
@@ -15,7 +16,7 @@ class Header extends React.Component {
     return (
         <header id="header">
             <h1>ghpage template</h1>
-            <input type="checkbox" id="switch" onChange={this.handle_thememode} /><label for="switch">Toggle</label>
+            <input type="checkbox" id="switch" onChange={this.handle_thememode} /><label for="switch">Dark mode</label>
         </header>
     );
   }
