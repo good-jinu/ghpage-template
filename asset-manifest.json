@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ghpage-template/static/css/main.2cd05670.css",
+    "main.js": "/ghpage-template/static/js/main.e08e8fbf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ghpage-template/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ghpage-template/index.html",
+    "main.2cd05670.css.map": "/ghpage-template/static/css/main.2cd05670.css.map",
+    "main.e08e8fbf.js.map": "/ghpage-template/static/js/main.e08e8fbf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ghpage-template/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cd05670.css",
+    "static/js/main.e08e8fbf.js"
+  ]
+}
