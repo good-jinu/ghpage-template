@@ -1,6 +1,6 @@
 {
   "homepage": "https://good-jinu.github.io/ghpage-template/",
-  "name": "my-app",
+  "name": "ghpage-template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
